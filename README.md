@@ -32,5 +32,5 @@ JAVASCRIPT
 <div> 
   <a href="https://www.linkedin.com/in/wilsondinizsilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
-  ![Snake animation](.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/wdnzs/github-contribution-grid-snake.svg)
 </div>
