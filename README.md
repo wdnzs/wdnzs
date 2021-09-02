@@ -12,6 +12,10 @@ C++
 JAVA
 ```
 
+```
+JAVASCRIPT
+```
+
   <a href="https://github.com/wdnzs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdnzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdnzs&layout=compact&langs_count=7&theme=dracula"/>
@@ -19,4 +23,6 @@ JAVA
 
 <div style="display: inline_block"><br>
   <img align="center" alt="wdnzs-cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="wdnzs-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="wdnzs-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
