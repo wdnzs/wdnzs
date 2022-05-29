@@ -1,6 +1,6 @@
 # Bem-Vindo!
 
-Espaço destinado a gerar repositórios com códigos gerados a partir de cursos e de criações as quais desejo compartilhar.
+Espaço destinado a gerar repositórios para compartilhar estudo de linguagens de programação e projetos opensource.
 
 ## Linguagens
 
@@ -44,6 +44,5 @@ JSP
 
 <div> 
   <a href="https://www.linkedin.com/in/wilsondinizsilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  
-  ![Snake animation](https://github.com/wdnzs/wdnzs/blob/output/github-contribution-grid-snake.svg)
+
 </div>
