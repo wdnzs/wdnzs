@@ -2,7 +2,9 @@
 
 <h3 align="center">Software developer and technology enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wdnzs&label=Profile%20views&color=0e75b6&style=flat" alt="wdnzs" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=wdnzs&label=Profile%20views&color=0e75b6&style=flat" alt="wdnzs" /> 
+</p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdnzs" alt="wdnzs" /></a> 
@@ -11,7 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-  
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -55,7 +56,6 @@
   <a href="https://git-scm.com/" target="_blank"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="java" width="40" height="40"/> 
   </a>
-  
 </p>
 
 <p>
