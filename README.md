@@ -50,11 +50,51 @@
   </a>
 
   <a href="https://nodejs.org/en" target="_blank"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="java" width="40" height="40"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="java" width="40" height="40"/> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="java" width="40" height="40"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://about.gitlab.com/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://spring.io/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://tomcat.apache.org/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.apache.org/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.jenkins.io/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </p>
 
